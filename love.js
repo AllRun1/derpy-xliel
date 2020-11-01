@@ -1,1 +1,1 @@
-consolge.log("derpy and xliel in love");
+console.log("derpy and xliel in love");
